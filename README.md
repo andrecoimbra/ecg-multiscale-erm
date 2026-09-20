@@ -1,1 +1,1 @@
-# ecg-classification-multiscale-recurrence-microstates-entropy
+# ecg-classification-multiscale-entropy-recurrence-microstates
